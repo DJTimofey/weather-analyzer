@@ -39,7 +39,7 @@ Response
 <hr>
 
 
-Cкрипты для создания схемы  базы данных . [Ссылка на скрипт для создания схемы БД ]()
+Cкрипты для создания схемы  базы данных . [Ссылка на скрипт для создания схемы БД ](https://github.com/DJTimofey/weather-analyzer/blob/main/src/main/resources/db/changelog/db.changelog-1.0.sql)
 
 
 <br>
